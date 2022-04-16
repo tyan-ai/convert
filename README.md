@@ -10,7 +10,7 @@ $ pip install requests
 
 $ git clone https://github.com/tyan-ai/convert
 
-$ cd Convert
+$ cd convert
 
 $ git pull
 
