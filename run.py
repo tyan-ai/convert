@@ -1,3 +1,4 @@
+#tian
 #!/usr/bin/env python3
 import requests, time, os, re
 # Warna
